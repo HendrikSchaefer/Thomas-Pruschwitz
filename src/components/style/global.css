@@ -467,3 +467,13 @@ h1.customHeadline {
     padding-bottom: 50px;
 }
 }
+details {
+    padding: 30px;
+    background-color: #eee;
+    border-radius: 5px;
+}
+
+details summary {
+    padding-bottom: 20px;
+    font-weight: 900;
+}
