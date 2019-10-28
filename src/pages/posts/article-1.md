@@ -1,16 +1,262 @@
 ---
-title: "Lorem Ipsum Dolor"
-subtitle: "sit amet consectetur"
-date: "2018-11-27"
-update: "2018-11-27"
-tags: ["book", "singer", "lorem"]
-category: "Narrative"
-project: "https://google.com"
-demo: "https://google.com"
+title: "Edition: Landtagswahlen in Thüringen."
+subtitle: "Ein Brief Hitlers mit mehreren Unbekannten"
+date: "2019-10-28"
+update: "2019-10-28"
+tags: ["SS", "Hitler", "NS-Geschichte"]
+category: "SS"
 featuredImage: "../../img/post/brandi-redd.jpg"
+author: "Thomas Pruschwitz"
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis leo ut tellus eleifend elementum. Nulla justo lectus, convallis hendrerit luctus non, condimentum non mi. Nam varius nulla vel imperdiet semper. Donec in sollicitudin nulla. Pellentesque et tortor facilisis, volutpat ex vitae, bibendum diam. Donec metus arcu, pretium eget congue id, tempor id ipsum. Duis nibh quam, suscipit vel justo non, commodo ornare tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec massa ante, tempor eget pharetra vehicula, pellentesque non ante.
+#  Edition: Landtagswahlen in Thüringen. Ein Brief Hitlers mit mehreren Unbekannten.
 
-Suspendisse facilisis id est id porttitor. Morbi at tincidunt velit, eu dignissim risus. Vivamus non bibendum ligula. Aliquam ac metus bibendum, rutrum nulla ac, pharetra turpis. Cras ut vestibulum leo. Quisque ex leo, placerat sit amet pellentesque pulvinar, pretium sed leo. Donec sed lectus elementum, faucibus ex viverra, lobortis orci. Praesent volutpat justo non mollis suscipit. Morbi volutpat molestie elit vitae condimentum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent quis tortor ante. Mauris lobortis semper nunc sed ullamcorper.
+{{TOC}}
 
-Etiam vel diam congue, scelerisque metus sit amet, tincidunt tellus. Vivamus viverra tincidunt lorem nec ultricies. Sed at velit tellus. Nullam et vehicula lectus. Nullam viverra sollicitudin nunc vitae tincidunt. Suspendisse eu erat dignissim nisl efficitur commodo ut eu nisi. Sed pulvinar dolor sit amet orci varius, quis malesuada justo mollis. Nam elementum erat at interdum porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus dapibus ultrices nibh, sed bibendum magna semper ut. Aliquam sed purus iaculis, dapibus ligula sit amet, congue magna.
+
+
+##  📊 **1929/30 - Die Wahl und das Original**
+Vor etwa 90 Jahren, am 8. Dezember 1929, wählten die ThüringerInnen ihren fünften demokratischen Landtag der #WeimarerRepublik Von insgesamt 53 Mandaten holten kommunistische und sozialdemokratische Abgeordnete zusammen 24 ( KPD 6; SPD 18). Ihnen gegenüber stand eine Bündnis aus liberal-bürgerlich und konservativen Kräften mit insgesamt 23 Mandaten. Der national-konservative Landbund (ThLB) errang davon neun, die Deutschnationale Volkspartei (DNVP) zwei Mandate. Die restlichen zwölf Mandate sammelten die liberalen Parteien. Sechs Mandate davon erhielt die Wirtschaftspartei, fünf die Deutsche Volkspartei (DVP) und ein Mandat die Deutsche Demokratische Partei.
+
+Die rechtsextreme Nationalsozialistische Deutsche Arbeiter Partei (NSDAP) erreichte in Thüringen mit 11,29 Prozent erstmalig ein Ergebnis im zweistelligen Bereich. Ihre sechs Mandate spielten eine Schlüsselrolle in den Verhandlungen um die Macht.[^ce7a] Obwohl die Leitfiguren der NSDAP wie Adolf Hitler der Demokratie jegliche Gestaltungskompetenz absprachen und auf Reichsebene eine Regierungsbeteiligung vehement ausschlossen, nutzten sie jetzt auf Landesebene mit dem Einverständnis liberal-bürgerlicher und konservativer Kräfte das Votum der ThüringerInnen zur Selbstprofilierung. Die Mitglieder der Thüringer NSDAP bewegten sich nun erstmalig von der Oppositionsbank in die gestalterischen Reihen einer Regierung. Ab 23. Januar 1930 amtierte schließlich die erste demokratisch gewählte Landesregierung mit nationalsozialistischer Minister-Beteiligung. In der sogenannten [Baum-Frick-Regierung](https://de.wikipedia.org/wiki/Baum-Frick-Regierung) bekleidete mit Wilhelm Frick ein höherer Staatsbeamter und überzeugter Nationalsozialist die Posten als thüringischer Innen- und Volksbildungsminister in Personalunion. Seitens der NSDAP war die Einsetzung Fricks als Minister offenbar eine "ultimative" Bedingung für das Bündnis mit bürgerlichen und konservativen Parteien. Gewählt hat ihn in Thüringen niemand. Ein Misstrauensvotum gegen Frick und Willy Marschler, einer der NSDAP-Mandatsträger, beendete im Dezember 1931 die Baum-Frick Regierung.[^8bfc]
+
+<details close>
+<summary>Mandatsträger der NSDAP</summary>
+
+Der gelernte Kaufmann Willy Marschler, seit 1924 im thüringischen Parlament, wurde 2. Vizepräsident des Weimarer Landtages und Staatsrat in der Regierung Baum-Frick. Mandatsträger für die NSDAP waren weiterhin der regionale Leiter der NSDAP in Thüringen Fritz Sauckel und dessen Stellvertreter Fritz Wächtler. Curt Ludwig, Paul Hennicke und Paul Papenbroock ergänzten die [Liste der Mitglieder][ec76a647], die für die NSDAP im fünften demokratisch gewählten Landtag von Thüringen saßen.
+
+![NSDAP-Mitgliedskartei Marschler, Willy (12.08.1993), Quelle: BArch, R 9361-IX KARTEI/27681165(1).JPG](images/2019/10/nsdap-kartei-marschler-willy-12-08-1993-quelle-barch-r-9361-ix-kartei-27681165-1-jpg.png)
+![NSDAP-Mitgliedskartei Sauckel, Fritz (27.10.1894), Quelle: BArch, R 9361-VIII KARTEI/18400958.JPG](images/2019/10/nsdap-mitgliedskarte-sauckel-fritz-27-10-1894-quelle-barch-r-9361-viii-kartei-18400958-jpg.png)
+![Personalkarte Reichsschulungsamt der NSDAP und DAF Wächtler, Fritz (07.01.1891), Quelle: BArch, R 9361-II/1174040](images/2019/10/personalkarte-reichsschulungsamt-der-nsdap-und-daf-wachtler-fritz-07-01-1891-quelle-barch-r-9361-ii-1174040.png)
+![NSDAP-Mitgliedskartei Ludwig, Kurt (28.03.1902), Quelle: BArch, R 9361-IX KARTEI/26581100](images/2019/10/nsdap-mitgliedskarte-ludwig-kurt-28-03-1902-quelle-barch-r-9361-ix-kartei-26581100.png)
+![NSDAP-Mitgliedkartei Hennicke, Paul (31.01.1883(, Quelle: BArch, R 9361-VIII KARTEI/10160715](images/2019/10/nsdap-mitgliedkartei-hennicke-paul-31-01-1883-quelle-barch-r-9361-viii-kartei-10160715.png)
+![NSDAP-Mitgliedskartei Papenbroock, Paul (31.03.1894), Quelle: BArch, R 9361-IX KARTEI/31680788](images/2019/10/nsdap-mitgliedskartei-papenbroock-paul-31-03-1894-quelle-barch-r-9361-ix-kartei-31680788.png)</p>
+</details>
+
+Einige Tage nach den Koalitionsverhandlungen, am 2. Februar 1930, entstand ein Brief. Darin verbuchte Adolf Hitler die Vorgänge in Thüringen als "größten Erfolg" der nationalsozialistischen "Bewegung" und zeigte sich von Wilhelm Frick extrem begeistert. Bemerkenswert deutlich beschrieb Hitler darin auch den Fahrplan zur Machtergreifung. Oder zur Abschaffung der Demokratie mit demokratischen Mitteln?
+
+Zu unterschiedlichen Zeiten nahm das Dokument in verschiedenen Gestalten erstaunliche Wege. Seitdem der Brief 1930 verschickt wurde, tauchte er plötzlich als Kopie in den Jahren 1943 und 1966 wieder auf. Im Jahr 1995 floß er in die mehrbändige Edition zu Hitlers Reden, Schriften und Anordnungen mit ein und geistert sprichwörtlich seither ohne Adressaten durch die Wissenschaft. Wer waren die Personen, die von Hitler über die aktuelle politische Lage informiert wurden? Warum wurde der Brief 1943 wieder interessant? Unbekannt ist bis heute auch, wo das Original abgeblieben ist und woher die Kopien stammten die 1966 zur ersten Publikation führten. Warum ließ die Geschichtsforschung die AdressatInnen des Briefes verschwinden?  Diese dunklen Ecken der Brief-Geschichte werden im Beitrag quellenkritisch neu ausgeleuchtet. Hierfür wird die Abschrift einer Kopie des Briefes, die im [Bundesarchiv] (https://www.bundesarchiv.de/DE/Navigation/Home/home.html "Startseite Bundesarchiv") Berlin überliefert ist, als #OpenHistory Edition veröffentlicht.
+
+##  📷 **1943 - Die unbekannte Fotokopie**
+Die Weimarer Demokratie existierte seit zehn Jahren nicht mehr, Europa stand in Flammen. Täglich wurden in Krieg und Holocaust tausende Menschen ermordet, zur Zwangsarbeit verschleppt oder zur Umsiedlung gezwungen, als im August 1943 ein Machtwechsel an der sogenannten Heimatfront erfolgte. Von Hitlers anfangs erwähnter Begeisterung für den altgedienten W. Frick schien zu diesem Zeitpunkt nicht mehr viel übrig geblieben. Der bereits 1933/34 zum Reichsinnenminister aufgestiegene Frick wurde durch den Multifunktionär Heinrich Himmler abgelöst und erhielt repräsentative Aufgaben im Reichsprotektorat Böhmen und Mähren. Am 20. August unterzeichnete Hitler die Ernennungsurkunde des neuen Ministers, der seit Januar 1929 die Schutzstaffeln (SS) der NSDAP führte, im Juni 1936 die Deutschen Polizei übernahm und seit Oktober 1939 als Reichskommissar für die Festigung Deutschen Volkstums verantwortlich zeichnete. Krieg, Holocaust, Zwangsarbeit und Umsiedlung gehörten zu seinem täglichen Geschäft. Offizieller Dienstbeginn für Himmler war der 26. August 1943.[^e0e1]
+
+Bereits am 16. August wusste Himmler von seiner Ernennung. Mittags, gegen 12:15 Uhr, telefonierte er mit dem Chef des Reichssicherheitshauptamtes, SS-Obergruppenführer Ernst Kaltenbrunner. Himmlers handschriftliche Aufzeichnungen verdeutlichen, dass die beiden über den Punkt "Neuorganisation M[inisterium] d[es] I[nnern]" sprachen. Am Nachmittag telefonierte Himmler außerdem noch mit dem Chef des SS-Hauptamtes, SS-Obergruppenführer Gottlob Berger. Es gibt zwar keinen Hinweis darauf, dass Himmler auch mit Gottlob Berger über den Machtwechsel im Reichsministerium des Innern sprach.[^d935] Es ist jedoch wahrscheinlich, denn Berger zaubert am nächsten Tag plötzlich ein Dokument aus dem Hut: die "Fotokopie" des Briefes vom 2. Februar 1930, in dem Hitler seine Begeisterung über Wilhelm Frick zum Ausdruck gebracht hatte. Er sendete jene angeblich "noch einzig vorhandene Fotokopie" am 17. August 1943 an den Persönlichen Stab Reichsführer-SS. Dabei behauptet der SS-Obergruppenführer in seinem Anschreiben, Himmler hätte den Brief Hitlers in die [Wewelsburg][54986cc3] bringen lassen. Er schlug nun vor, auch die Fotokopie in das Archiv der Burg zu geben.[^0ce2] So geschah nach bisherigen Erkenntnissen auch. Eine Woche später, am 24. August 1943, wies der Persönliche Referent Himmlers, Rudolf Brandt, den sogenannten Burghauptmann der Wewelsburg, SS-Obergruppenführer Siegfried Taubert, an, die mitgeschickte Fotokopie in das Archiv zu übernehmen. Am gleichen Tag informierte Rudolf Brandt auch SS-Obergruppenführer Berger über den Verbleib der Kopie.[^7de7]
+
+
+Unbekannt bleibt die Herkunft der Fotokopie. Wer war die Quelle Gottlob Bergers? Und was meinte der Chef des SS-Hauptamtes mit der Formulierung, Himmler hätte den Brief in die Wewelsburg bringen lassen? Ging es hierbei um das Original, einen Abdruck, eine Kopie, einen Entwurf?
+
+
+##  📸 **1966 - Die (un)bekannte Photokopie**
+
+Der Hitler-Brief vom 2. Februar 1930 tauchte im Jahr 1966 in einer wissenschaftlichen Zeitschrift erneut auf. Die Vierteljahreshefte für Zeitgeschichte (VfZ) veröffentlichten eine Dokumentation mit dem Titel: *Die Regierungsbildung in Thüringen als Modell der Machtergreifung, Ein Brief Hitlers aus dem Jahre 1930*.[^0d11] Für die Dokumentation war Fritz Dickmann verantwortlich, der 1966 an der Freien Universität Berlin Neue Geschichte lehrte.[^5313] Die Quelle, eine "Photokopie", lag dem Historiker exklusiv vor. Zweifel an der Echtheit des Originals räumte er aus.
+
+<details close>
+<summary>Zitat aus den Vierteljahresheften für Zeitgeschichte 1966</summary>
+"An der Echtheit des Schreibens ist nicht zu zweifeln. Die Photokopie, die mir vorgelegen hat, läßt vermuten, daß kein Entwurf angefertigt wurde, sondern daß Hitler den Text entweder unmittelbar in die Maschine oder ins Stenogramm diktiert hat, denn die Reinschrift ist an einigen Stellen handschriftlich korrigiert und dann von Hitler unterzeichnet worden. Soweit man erkennen kann, scheinen die wenigen Korrekturen von Hitler selbst herzurühren. Auch Inhalt und Diktion tragen alle Kennzeichen der Echtheit".[^8741]
+</details>
+
+Dickmann stellte die Quelle als einzigartig heraus und dokumentierte für die nachfolgenden Generationen ein wichtiges Detail nicht. Er ließ weg, an wen Hitler den Brief schrieb.
+
+<details close>
+<summary>Zitat aus den Vierteljahresheften für Zeitgeschichte 1966</summary>"Ein persönliches Schreiben Hitlers darf also Seltenheitswert beanspruchen. Warum das hier abgedruckte in dieser Form abgefaßt und in einem bei Hitler höchst seltenen Ton persönlicher Herzlichkeit gehalten wurde, ist schnell erklärt: Der Empfänger war ein in Übersee lebender Deutscher, der zu Anfang der zwanziger Jahre bei einem Besuch in München mit Hitler und der NSDAP in Berührung kam und von da an ein begeisterter Anhänger und Bewunderer des „Führers" blieb. Gerade bei Auslanddeutschen war das ja kein seltener Fall. Hitler erschien, vom Ausland her gesehen, als der Erneuerer deutscher Größe und deutschen Ansehens in der Welt, unter dessen Niedergang in der Zeit nach dem Versailler Frieden die Auslanddeutschen besonders gelitten hatten. Die dunklen Seiten, die Unmenschlichkeiten des Nationalsozialismus blieben für diese Betrachter aus der Ferne gewissermaßen unter dem Horizont, wurden nicht geglaubt oder übersehen. Nicht selten verlor allerdings die magische Fernwirkung Hitlers ihren Zauber, wenn ein solcher Auslanddeutscher durch einen längeren Besuch in der Heimat den Dingen näher trat. Bei dem Empfänger des hier publizierten Briefes scheint das nicht der Fall gewesen zu sein. Er hat in den zwanziger und dreißiger Jahren Deutschland mehrfach besucht, an Parteitagen der NSDAP teilgenommen und ist, soweit man seinen Weg weiter verfolgen kann, ein unbeirrbarer Bewunderer Hitlers geblieben; ein Photo aus dem Jahre 1935 zeigt ihn und seine Frau in der Reichskanzlei als Gäste Hitlers mit ihm allein an der Kaffeetafel. Aus Hitlers Brief kann man schließen, daß der Empfänger wohl schon frühzeitig bedeutende finanzielle Opfer für die Partei gebracht hat. Es gab also Gründe für eine so außergewöhnliche Ehrung, wie sie Hitler mit diesem langen, fast schmeichlerisch gehaltenen persönlichen Dank- schreiben dem Empfänger erwies und für die Vertraulichkeit, mit der er ihn seine Beurteilung der politischen Lage wissen, seine Erwartungen und Hoffnungen teilen ließ. Daß diese Ehre auch als solche gewürdigt wurde, ergibt sich daraus, daß der Empfänger den Brief sorgfältig aufbewahrte und ihn Jahre später, als Hitler Reichskanzler geworden war, photokopieren ließ, um einigen Freunden einen Abzug zum Geschenk zu machen. Der Freundlichkeit eines der Beschenkten verdanke ich die Kenntnis des Briefes und die Erlaubnis zur Veröffentlichung, doch ohne Nennung des inzwischen verstorbenen Empfängers, dessen Name ohnehin, da es sich um keine irgendwie bekannte Persönlichkeit handelt, nichts zur Sache tun würde."[^cefb]</details>
+
+Bemerkenswert ist, dass Fritz Dickmann selbst die besten Gründe dafür lieferte, warum der Empfänger nicht hätte verschwinden dürfen. Aus dem Hitler-Brief von 1930 schließt er, der Empfänger könnte "schon frühzeitig bedeutende finanzielle Opfer für die Partei gebracht" haben. Genau deshalb wäre der Name interessant gewesen. Auch in der Nachvollziehbarkeit des Quellenmaterials hakte es etwas, denn aus der Dokumentation von 1966 geht an keiner Stelle hervor, ob die Photopkopie -vielleicht in einer weiteren Kopie- archiviert wurde. Dass Dickmanns Quellengeber mit dem Empfänger befreundet gewesen ist, dürfte hier eine wesentliche Rolle für das Verschwinden des Namens gespielt haben.
+
+## 📖**1995 - Die Edition der unbekannten Photokopie**
+Mitte der 1990er wurde der Brief von 1930 erneut veröffentlicht. Im dritten Band zu Hitlers "Reden, Schriften, Anordnungen" druckte das Institut für Zeitgeschichte die Korrespondenz auf Grundlage der Dokumentation von 1966 ab. Wesentlich umfangreicher mit Fußnoten bestückt, bietet die Edition der Dokumentation einen informatorischen Mehrwert gegenüber der Veröffentlichung von 1966. Dabei wurde allerdings auch die Einordnung des verschwundenen Namens übernommen. Ein Hinweis auf die kaum nachvollziehbare Quelle fehlt unglücklicherweise.[^8c73] Sie bleibt mehr oder weniger die Edition einer unbekannten Photokopie.
+
+## 👁 **2019 - OpenHistory - Eine unbekannte Abschrift**
+
+### **Forschungsstand**
+Eine ganze Reihe deutschsprachiger Literatur zur Person Adolf Hitlers seit 1971 schenkte dem Brief vom 2. Februar 1930 keine Aufmerksamkeit.[^49ac] Ausnahmen auf der wissenschaftlich biografischen Ebene sind Ian Kershaw und Volker Ullrich. Mit Blick auf Hitlers Rolle während der Landtagswahl in Thüringen und die Dokumentation Fritz Dickmanns als Quelle nutzend, kommt Kershaw zu der Interpretation, dass Hitler in dem Brief einen Weg beschrieb, wie er sich zu diesem Zeitpunkt Das Ende der #WeimarerRepublik vorstellte.
+
+<details close>
+<summary>Zitat Ian Kershaw mit Bezug zum Hitler-Brief von 1930</summary>"Sollte die NS-Partei die Situation ausnutzen, erstmals in eine Regierung eintreten und zugleich riskieren, durch die Mitwirkung an einem diskreditierten System Popularität einzubüßen? Hitler entschied, die NSDAP müsse Regierungsverantwortung übernehmen. Hätte er das Angebot abgelehnt, wären Neuwahlen fällig gewesen, und die Wähler hätten sich möglicherweise von der NSDAP abgewandt. Was dann geschah, deutet darauf hin, wie man sich zu diesem Zeitpunkt die 'Machtergreifung' im Reich vorstellte".[^ea60]
+</details>
+
+Volker Ullrich verweist in seinem 2013 erschienen Werk über Hitlers Aufstieg ebenfalls auf den Brief vom 2. Februar 1930. Im Gegensatz zu Kershaw greift Ullrich den prophetischen Charakter heraus. Schließlich orakelte Hitler in dem Brief über den Aufstieg der NSDAP, der in den Reichstagswahlen vom September 1930 auch stattfand.[^1a46] Beiden Interpretationen fehlt das Geheimnis, wer der oder die EmpfängerIn des Briefes war. Während Volker Ullrich nach Dickmann zumindest auf einen Auslandsdeutschen in Übersee hinweist, setzt sich Kershaw damit nicht auseinander. Darüber hinaus ist bei aller Beschäftigung mit dem Inhalt des Hitler-Briefes die Frage nach dessen Original und der Provenienz des überlieferten Quellenmaterials zu kurz gekommen.
+
+Die erneute Veröffentlichung des Hitler-Briefes vom 2. Februar 1930 in Form einer frei zugänglichen online-Edition erweitert die vorhandene Forschungsliteratur zu Hitler auf einmalige Weise. Schließlich kann anhand der hier edierten Abschrift das Geheimnis gelüftet werden, an wen der Brief gerichtet war. Im Kern versteht sich die Edition aufgrund der Quelle als eigenständige zeitgemäße Erweiterung der bislang publizierten Versionen.
+
+###  **Editorische Notiz**
+
+#### Wer.Wo.Was.
+Zu den Merkwürdigkeiten der Briefes gehört auch die Beschaffungs-Aktion des SS-Obergruppenführers Gottlob Berger vom dem August 1943. Die hier wiedergegeben Abschrift wurde demzufolge auf Grundlage einer bis heute verschollenen Fotokopie angefertigt, die angeblich in das Archiv der Wewelsburg gelangte. Dort befindet sie sich aber nicht mehr. So undurchsichtig die Aktion Bergers zunächst erscheint, zog sie einen bürokratischen Akt der Vervielfältigung nach sich.[^85d4]
+
+Wer die Abschrift der Fotokopie wann, wo und warum erstellte, geht aus der Akte im Bundesarchiv nicht eindeutig hervor. Vermutlich ist sie zwischen dem 16. und 24. August 1943 entstanden, dem Zeitraum der Korrespondenz zwischen SS-Obergruppenführer Gottlob Berger vom SS-Hauptamt und SS-Sturmbannführer Rudolf Brandt vom Persönlichen Stab Reichsführer-SS.  Für den Ort kommen zwei mögliche Optionen in Frage: Entweder wurde sie in Bergers SS-Hauptamt in Berlin oder in der von R. Brandt geleiteten Hauptabteilung Persönliches Referat im Persönlichen Stab Reichsführer-SS erstellt. R. Brandt befand sich in zwischen 16. und 24. August 1943 sehr wahrscheinlich zusammen mit Heinrich Himmler auf dem Obersalzberg bei Adolf Hitler.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d782.0496885196771!2d13.038110715631964!3d47.62593096760616!2m3!1f0!2f39.05235815539437!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x4776eb68f9a2d9df%3A0x509f7ac3468eddf6!2sDokumentation%20Obersalzberg!5e1!3m2!1sde!2sde!4v1570803775321!5m2!1sde!2sde" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
+Auch wenn Berger in Berlin der Auslöser war und die Beschaffenheit der DIN-A4 Blätter der Abschrift augenscheinlich der des Anschreibens Bergers vom 17. August 1943 sehr nahe kommt, spricht eine Tatsache gegen den Entstehungsort Berlin. Berger gibt im Anschreiben nur eine einzige Anlage an, wobei es sich um die Fotokopie gehandelt haben dürfte. Von einer Abschrift ist nirgends die Rede, auch kein Vermerk. Dass die Abschrift in den Akten des Persönlichen Stabes überliefert ist, spricht wesentlich für die zweite Option. In der Schriftgutverwaltung des Persönlichen Stabes Reichsführer-SS wurde der Vorgang später gestempelt und als geheimer Akt mit der blauen Nummer 181/14 archiviert. Nach dem Krieg verwaltete des Berlin Document Center (BDC) den überlieferten Teil der Akten aus der Schriftgutverwaltung. Das BDC übergab die Akten bei seiner Auflösung 1994 dem Bundesarchiv. Dort ist der geheime Vorgang 181/14 unter der Sigantur NS 19/233 abgelegt.
+
+#### Wie kommt die Akte auf die Seite?
+
+Von den neun Blättern der Akte NS 19/233 wurden zunächst Digitalisate in Form von PDF angefertigt. Damit konnten die Blätter anhand des Texterkennungs-verfahrens der Open-Source von [Transkribus][28fda3d2] in eine maschinell lesbare Form gebracht werden. Das entsprechende Textdokument wurde von Fehlern wie falschen Buchstaben bereinigt und bildete die Grundlage für den Markdown-Text. Auf dem BLOG wiedergegeben sind die Blätter zwei bis sieben, d.h., die 1943 erstellte Abschrift des Hitler-Briefes vom 2. Februar 1930.[^db78] Die Bearbeitung stellt mehr oder weniger ein experimentelles Verfahren zur Digitalisierung von Akten zum Nationalsozialismus dar.
+
+
+---
+##### -Seite 1 der Abschrift-
+Persönlicher Stab Reichsführer-SS   
+Schriftgutverwaltung.   
+Akt[en] N[umme]r Geh[eim] 181/14   
+W[iedervorlage] 16.9.[^1f42]
+
+Fotokopie eines Briefes des Führers an einen Großindustriellen in Südamerika.
+
+
+München, den 2. Februar 1930
+
+Lieber Herr Eichhorn!
+
+Durch eine Reihe widriger Umstände wurde das Weihnachtsgeschenk für Sie[^7c0c] und Ihre verehrte Frau Gemahlin[^0b48], das ich zur Erinnerung an die Nürnberger Tage [Reichsparteitage][f6fd9893][^1254] [August 1929; T.P.] nach meinem Entwurfe anfertigen ließ, statt Dezember erst Januar fertig. Sie werden mir aber wohl nicht böse sein, wenn ich damit so verspätet all die Glückwünsche verbinde, die ich sonst zum neuen Jahr übermittelt hätte. Ich benütze diese Gelegenheit aber auch, um Ihnen einiges über die Bewegung zu schreiben, die Ihnen und Ihrer lieben hochverehrten Frau Gemahlin so sehr am Herzen liegt.
+
+Seit Sie uns im August verlassen haben, konnte die Bewegung einen Aufschwung nehmen, der alles, was wir in dieser Richtung zu hoffen wagten, weit zurückließ. Die [Landtagswahlen][a7a09b6d] und Kommunalwahlen verdoppelten bis verzehnfachten an manchen Orten unsere Stimmen.[^d1fe] Wir waren überhaupt die einzige Partei, die wirklich und zwar rapid gewachsen ist. Den größten  Erfolg erzielten wir in #Thüringen. Dort sind wir heute wirklich die ausschlaggebende Partei.Es trat damit eine Frage von großer grundsätzlicher Bedeutung an die Bewegung heran. Die Parteien in Thüringen, die bisher die Regierung bildeten, vermögen ohne unsere Mitwirkung keine Majorität aufzubringen. Wir haben ja auch schon vor dem eine Zeit lang - vor Dinters Ausscheiden[^a3e5] - einen ausschlaggebenden Einfluß ausüben können. Allein erst die Neuwahl brachte uns die ziffernmäßige Stärke, die jede Regierungsbildung ohne unser Mittun kurzerhand verbietet. Außerdem hat sich seitdem in der öffentlichen Meinung  ein sehr großer Umschwung vollzogen. Es ist staunenswert, wie  sich hier die vor wenigen Jahren noch selbstverständliche  arrogante, hochnäsige oder dumme Ablehnung der Partei in  eine erwartungsvolle Hoffnung verwandelt hat. Es lag im Wesen dieser Umwälzung, wenn daher die früheren Koalitionsparteien in Thüringen an uns zum ersten Male die Forderung nach  aktiver Beteiligung an der Regierung richteten. Ich glaube, man erwartete (besonders auf der Seite der deutschen [sic!] Volks-
+
+<details close>
+  <summary>Digitalisat: BArch, NS 19/233, Bl. 2</summary>
+
+/NS 19_233(1-9)-0002 3.jpg
+</details>
+
+<details close>
+	<summary>NSDAP-Mitgliedskarteien von Walter & Ida Eichhorn</summary>
+
+/R 9361-VIII KARTEI:7791157 2.JPG
+
+/R 9361-VIII KARTEI:7790177 2.JPG
+
+</details></br>
+
+
+##### -Seite 2 der Abschrift-
+
+partei!), daß ich irgendeinen national schimmernden Regierungsbeamten zur Verfügung stellen würde, mit dem man dann schnell fertig geworden wäre. Man mußte deshalb dieses Mal gleich von Anfang an den Herrn Parteipolitikern zeigen, daß jeder Versuch einer Übertölpelung der nationalsozialistischen Bewegung  lächerlich ist. So erklärte ich zunächst prinzipiell mein  Einverständnis, uns an der Regierungsbildung in Thüringen aktiv zu beteiligen. Hätte ich "Nein" gesagt und wäre es darüber zu einer Neuauflösung des Landtags gekommen, würden manche Wähler vielleicht den Entschluß, uns das Vertrauen zu schenken, wieder bedauert haben. Von dem Moment an, an dem unser  prinzipielles Einverständnis vorlag, wäre jede Neuwahl zu  Ungunsten der anderen Parteien ausgegangen. Nachdem auf solche Art unsere prinzipielle Bereitschaft zur Beteiligung an  der Regierungsbildung abgegeben und angenommen worden war,  stellte ich zwei Forderungen: Innenministerium und Volksbildungsministerium. Es sind dies in meinen Augen die beiden in  den Ländern für uns wichtigsten Ämter. Dem Innenministerium untersteht die gesamte Verwaltung, das Personalreferat, also Ein- und Absetzung aller Beamten, sowie die Polizei. Dem Volksbildungsministerium untersteht das gesamte Schulwesen, angefangen von der Volksschule bis zur [Universität in Jena] (https://www.uni-jena.de/Universität/Geschichte.html "Uni Jena - Geschichte") sowie das gesamte Theaterwesen. Wer diese beiden Ministerien  besitzt und rücksichtslos und beharrlich seine Macht in ihnen  ausnützt, kann Außerordentliches wirken. Natürlich ist die  Voraussetzung hiezu die geeignete Persönlichkeit. Ich war mir  darüber klar, daß für diese Stelle nicht irgend ein kleiner  Parlamentarier oder ein ergebener Regierungsbeamter in Frage  kommen kann, sondern nur ein durchgekochter Nationalsozialist  von ebenso großer Fachkenntnis wie bedingungsloser nationalsozialistischer Gesinnung. Ich habe nun das Glück, in unserem  Parteigenossen Dr. Frick einen Mann zu besitzen, der diesen  Anforderungen in höchstem Ausmaß gerecht wird. Ein energischer,  kühner und verantwortungsfreudiger Beamter von außerordentlich  großem Können und fanatischer Nationalsozialist! Als ich den  Unterhändlern der anderen Regierungsparteien diesen meinen  Kandidaten mitteilen ließ, war man dort zunächst auf das unangenehmste berührt. Das entsprach nicht dem, was man sich zuerst vorstellte. Natürlich konnte man Dr. Frick nicht aus den
+
+<details close>
+  <summary>Digitalisat: BArch, NS 19/233, Bl. 3</summary>
+
+/NS 19_233(1-9)-0003 3.jpg
+</details>
+
+<details close>
+	<summary>NSDAP-Mitgliedskarteien von Wilhelm Frick</summary>
+
+/R 9361-IX KARTEI:9621548.JPG
+
+</details>
+
+##### -Seite 3 der Abschrift-
+wahren Gründen ablehnen. So griff man zu ebenso unwahren wie  lächerlichen Vorwänden. Die deutsche Volkspartei, die im Reich in den [Koalitionen [sic!] mit den Parteien] (https://de.wikipedia.org/wiki/Kabinett_Müller_II "Wikipedia - Kabinett Müller II (28. Juni 1928 bis 27. März 1930)") der ehemaligen Landesverräter sitzt, empfand es auf einmal als "untragbar", mit einem wegen "Hochverrat" zu Festungshaft verurteilten  Nationalisten zusammen zu arbeiten.[^Mit den "Landesverrätern" waren sehr wahrscheinlich die Abgeordneten der SPD im Kabinett Müller II, der zweiten großen Koalition der Weimarer Demokratie, gemeint. Hitler spielte hier auf die sogenannte [Dolchstoß-Legende] (https://www.dhm.de/lemo/kapitel/weimarer-republik/innenpolitik/dolchstosslegende.html "Deutsches Historisches Museum - Dolchstoßlegende") an, nach der die deutsche Armee am Ende des Krieges von der Politik verraten worden ist und im Felde unbesiegt blieb. Die Anführungszeichen bei "'untragbar'" und "'Hochverräter'" wurden laut Dickmann auf dem Original handschriftlich nachgetragen. Vgl. Dickmann: Regierungsbildung, S. 462. Mit dem "'Hochverräter'" meinte Hitler vermutlich Wilhelm Frick, der als Teilnehmer des misslungenen Aufstandes vom 9. November 1923 verurteilt worden war.] Man glaubte, daß wir vor der Drohung eines Mißlingens der Regierungsbildung doch klein beigeben würden. So fuhr ich dann selbst nach [Weimar] (https://www.weimar.de "Startseite Stadt Weimar") und habe den Herren[^Im Original nach Dickmann aus "'Herrn'" korrigiert. Vgl Dickmann, Regierungsbildung, S. 462.] ganz kurz in aller Bestimmtheit versichert, daß  entweder Dr. Frick unser Minister wird, oder Neuwahlen kommen. Ich setzte von Freitag, den 10., bis Montag, den 13. Jan[uar][^Kommata fehlen in der Version von 1966, sie sind sehr wahrscheinlich von der Person eingefügt worden, die die Abschrift im August 1943 erstellte. eine kurze Frist der Überlegung und versicherte, daß anderenfalls am Dienstag unser Antrag auf Auflösung des Landtages  eingebracht würde und am Mittwoch der Wahlkampf von unserer  Seite wieder begänne. In einer Industriellenversammlung, die  ich am selben Tag hielt und zu der alles, was in der mitteldeutschen Wirtschaft überhaupt eine Rolle spielt, nach Weimar  gekommen war, vertrat ich unsere nationalsozialistischen Gedanken und Prinzipien mit dem Erfolge, daß auf einmal gerade  von dieser Seite ein sehr scharfer Druck auf die deutsche  Volkspartei ausgeübt wurde mit dem Gesamtergebnis, daß wir am  Montag Abend die prompte Einwilligung zu unserem Kandidaten  und zu den beiden Ministerien erhielten. Parteigenosse Frick  hat in der Regierung noch einen zweiten Nationalsozialisten.  Wir haben gefordert, daß unser Parteigenosse Marschler Staatsrat wird, und als solcher damit an den Abstimmungen der Regierung stimmberechtigt teilnimmt. Damit hat nun allerdings  ein Kampf begonnen, der nicht leicht sein wird, von dem ich  mir aber umso mehr Erfolg verspreche, als unser Staatsminister, Parteigenosse Dr. Frick, alle übrigen Herrn des Kabinetts an Fähigkeit und Willensstärke turmhoch überragt. Dazu  kommt noch, daß hinter ihm die aktivste und entschlossenste  Partei steht!  
+Unsere Aufgabe in Thüringen erstreckt sich damit auf zwei Gebiete. Als Innenminister wird Dr. Frick eine langsame Säuberung des Verwaltungs- und Beamtenkörpers von den roten Revolutionserscheinungen vornehmen. Dr. Frick wird hier mit rücksichtsloser Entschlossenheit eine Nationalisierung einleiten,  die den anderen bürgerlichen Regierungen zeigen kann, was  
+
+<details close>
+  <summary>Digitalisat: BArch, NS 19/233, Bl. 4</summary>
+
+/NS 19_233(1-9)-0004 3.jpg
+</details>
+
+##### -Seite 4 der Abschrift-
+
+wir Nationalsozialisten unter diesem Worte verstehen. Vor  allem auf dem Gebiete des Polizeiwesens gibt es sehr viel  zu tun. Die zweite große Aufgabe wird Dr. Prick als Volksbildungsminister in der Nationalisierung des Schulwesens erblikken. Wir werden in Thüringen nunmehr das gesamte Schulwesen  in den Dienst der Erziehung des Deutschen zum fanatischen  Nationalisten stellen. Wir werden ebenso sehr den Lehrkörper  von den marxistisch-demokratischen Erscheinungen säubern, wie  umgekehrt den Lehrplan unseren nationalsozialistischen Tendenzen und Gedanken anpassen. Der erste Schritt wird die Errichtung eines Lehrstuhles für Rassenfragen und Rassenkunde  an der Universität in Jena sein. Ich habe die bestimmte Hoffnung, daß es gelingen wird, Dr. Hans Günther zum ordentlichen  Professor der Universität Jena zu gewinnen. Damit wird Thüringen, von dem in der deutschen Geschichte schon einige Male  große geistige Erneuerungen ausgegangen sind, abermals der  Ausgangspunkt einer solchen geistigen Umwälzung werden. Eine  weitere Aufgabe ist es, von Thüringen aus der verhängnisvollen Reichspolitik entgegenzutreten. Der erste Erfolg in dieser Richtung ist die Ablehnung des Youngplanes durch den Thüringischen Staat im Reichsrat.  
+Aber was sich hier in einem Bundesstaat abspielt, wiederholt  sich in zahlreichen Kommunen und bereitet sich in einigen anderen Ländern vor. Wir haben in 5 Jahren hunderttausend Mitglieder gewonnen. Im vergangen Jahr allein achtzigtausend  dazu. Im Monat Dezember aber allein bereits zwanzigtausend.  
+Die Bewegung wird in ein bis einerhalb Jahren die Zahl von  vierhunderttausend Mitgliedern mindest erreicht, wenn nicht  überschritten haben. Die große Arbeit der ersten Jahre nach  der Wiedererlangung meiner Freiheit beginnt jetzt ihre Früchte zu tragen. Es wird bei uns kommen wie in der ganzen Natur.  Man muß pflügen und eggen, säen und immer wieder arbeiten  bis endlich die Zeit kommt, in der die Ernte fast sichtbar  in wenigen Wochen der Reife entgegengeht und endlich in Tagen  als Frucht eingebracht werden kann. Es ist bei Bewegungen  nicht anders. Wir haben einen gründlichen Unterbau geschaffen.  Wir haben unser Volk durchpflügt wie keine andere Partei es  tut. Wenn der Moltkesche Satz, daß das Glück auf die Dauer  beim Tüchtigen ist, auch heute noch zutrifft, kann es nur bei
+
+<details close>
+  <summary>Digitalisat: BArch, NS 19/233, Bl. 5</summary>
+
+/NS 19_233(1-9)-0005 3.jpg
+</details>
+
+##### -Seite 5 der Abschrift-
+
+uns sein. Alles was sich an großen Ereignissen in den letzten  Monaten abspielte, hat deswegen auch unserer Bewegung gedient  und genützt. Das Volksbegehren und der Volksentscheid waren  der Anlass für eine Propagandawelle, wie sie ähnlich in  Deutschland noch nie da war. Und darin liegt in erster Linie  ihr Nutzen. Allein darüber hinaus wurde die Nation so aufgerüttelt, daß es den anderen Parteien heute schon sehr schwer  wird, ihr neues Verbrechen an unserem Volke so leichten Herzens zu begehen, wie dies früher oft der Fall war. Daß sie  uns deshalb nicht lieben, ist selbstverständlich. Ich glaube nicht, daß jemals eine politische Partei in Deutschland so  infernalisch gehasst wurde als wir. Allein ich glaube auch  nicht, daß jemals an einer Bewegung Menschen in so verzehrender Hingabe hingen als ebenfalls an der unseren.  
+Was mein eigenes leben betrifft, so geht es auf in der großen  Tätigkeit und dem ärgerlichen Kleinkram, der dazwischen nun  einmal immer mitläuft. Es wäre auch sonst zu schön, wenn einem nicht kleinliche Stänkereien, Prozesse und sonstige Sorgen von Zeit zu Zeit immer wieder das Bewußtsein brächten, daß  man nicht in einer Welt der eitlen Freude, sondern tausendfältiger Unzulänglichkeit lebt. Ich meine dabei natürlich  nicht die Welt an sich, sondern nur das Zeug, das sich auf ihr  herumtreibt!  
+So darf ich Ihnen, lieber Herr Eichhorn, und Ihrer so sehr  verehrten Prau Gemahlin denn auch an dieser Stelle danken für  die Art und Weise, in der Sie mir wenigstens einen Teil meiner Sorgen abnehmen und erleichterten. Ich weiß, wie sehr Sie  an unserem Werke hängen, an unserem gemeinsamen Werk, und  weiß, wie für Sie selbstverständlich der schönste Dank das wunderbare Werden dieses unseres Werkes ist. Ich bin früher  in vielen Dingen ein Prophet gewesen und habe wenigstens im  Großen meist recht behalten. Ich habe aber fast nie über die  Zeit des Erfolges unserer Bewegung prophezeit. Heute kann ich  das mit fast hellsehender Sicherheit. Lieber Herr Eichhorn,  wenn mich das Schicksal gesund erhält und nicht ungeahnte Katastrophen kommen, wird das deutsche Volk längstens in zweieinhalb bis drei Jahren den tiefsten Punkt seiner Erniedrigung verlassen haben. Ich glaube, daß in dieser Zeit der Sieg
+
+<details close>
+  <summary>Digitalisat: BArch, NS 19/233, Bl. 6</summary>
+
+/NS 19_233(1-9)-0006 3.jpg
+
+</details>
+
+##### -Seite 6 der Abschrift-
+
+unserer Bewegung eintritt und damit die Periode unseres  Verfalls beendet ist und eine solche des Wiederaufstiegs  unseres Volkes beginnt. Vielleicht ist es Ihnen trotz  allem möglich, noch vorher in unsere deutsche Heimat zu  einem kurzen Besuch zurückzukehren, vielleicht aber betreten Sie diesen Boden schon in der Zeit, in der Sie  das neue Banner begrüßen wird.  
+Ich habe das Nürnberger Abzeichen als Briefbeschwerer  verarbeiten lassen und möchte Ihnen und Ihrer verehrten  Frau Gemahlin dies als kleines Zeichen meiner Dankbarkeit  schicken, in der Überzeugung, daß es sie immer an Tage  zurückerinnern wird, die einst ein Fest waren, in der  Zukunft aber Deutschland sein werden. Sie haben diese  Tage selbst miterlebt und werden aus ihnen heraus besser  verstehen als aus toten Nachrichten den lebendigen Siegeszug unserer Bewegung.  
+
+Seien Sie und die gnädige Frau Gemahlin nochmals  
+herzlichst bedankt und gegrüßt von Ihrem  ergebenen  
+
+gez. Adolf Hitler
+
+<details close>
+  <summary>Digitalisat: BArch, NS 19/233, Bl. 7</summary>
+
+/NS 19_233(1-9)-0007 3.jpg
+</details>
+
+---
+
+
+
+[^eed1]: Im Original unterstrichen.
+[^7c0c]: Walter Eichhorn wurde am 03.01.1877 in Leipzig geboren. Laut NSDAP-Mitgliedskartei war E. von Beruf Kaufmann, lebte in der argentinischen Stadt La Falda und trat am 1. Februar 1929 unter der Mitgliedsnummer 112823 in die NSDAP ein.  Am 11. Mai 1935 verlieh Hitler Walter E. das [Ehrenzeichen der NSDAP][eef1193f] BArch, R 9361-VIII KARTEI/7791157.
+
+[eef1193f]: https://de.wikipedia.org/wiki/Goldenes_Parteiabzeichen_der_NSDAP "Wikipedia - Goldenes Parteiabzeichen der NSDAP"
+
+[^0b48]: Ida Eichhorn wurde am 11. Dezember 1881 im siebenbürgischen Heltau (rumän. Cisnădie; ungar. Nagydisznód) geboren. Sie lebte mit ihrem Ehemann Walter in La Falda, Argentinien, und trat drei Monate vor ihm, am 01.12.1928, unter der Mitgliedsnummer 105408 ein. Wie ihr Mann Walter bekam auch Ida E. am 11. Mai 1935 von Hitler das Ehrenzeichen der NSDAP verliehen. Barch, R 9361-VIII KARTEI/7790177.
+
+[^0d11]: Die Regierungsbildung in Thüringen als Modell der Machtergreifung, Ein Brief Hitlers aus dem Jahre 1930, bearb. von Fritz Dickmann, in: VfZ, 1966 (4), S. 454-464. Das Institut für Zeitgeschichte hat den Text als [PDF online] (https://www.ifz-muenchen.de/heftarchiv/1966_4_4_dickmann.pdf.) gestellt.
+[^8c73]: Hitler: Reden, Schriften, Anordnungen, Februar 1925 bis Januar 1933, Bd. 3, Zwischen den Reichstagswahlen, Juli 1928-September 1930, Teil 3, Janaur 1930-September 1930, (Hrsg.) Institut für Zeitgeschichte, hrsg. u. komm. von Christian Hartmann, München 1995, S. 59-64, hier S. 59, Anm. 1.
+
+[f33f2574]: https://de.wikipedia.org/wiki/Thüringer_Landtag_(Weimarer_Republik) "Wikipedia - Thüringer Landtag (Weimarer Republik)"
+
+[6f4e5a66]: https://de.wikipedia.org/wiki/Baum-Frick-Regierung "Wikipedia - Baum-Frick-Regierung"
+
+[^5313]: Fritz Dickmann (1906-1969), studierte Geschichte, evangelische Theologie und Germanistik überwiegend in Berlin, promovierte mit 22 Jahren bei Friedrich Meinecke und verfasste eine Dissertation mit dem Titel [*Militärpolitische Beziehungen zwischen Preußen und Sachsen 1866–1870, Ein Beitrag zur Entstehung des Norddeutschen Bundes*] (https://portal.dnb.de/opac.htm?method=showFullRecord&currentResultId=%22119509407%22%26any&currentPosition=17). Laut Stephan Skalweit entdeckte der junge Historiker die Quellenforschung für sich. Eine bereits angetretene Assistenten-Stelle im Reichsarchiv wurde allerdings aus wirtschaftlichen Gründen 1931 gestrichen. Daraufhin qualifizierte sich D. für den höheren Schuldienst, den er 1935 an der Martin-Luther-Schule in Marburg antrat. Mitglied der NSDAP war D. nicht. 1937 musste er seinen Posten in Marburg kurzzeitig verlassen und mit der Tätigkeit an einer Luftwaffenschule in Münster auskommen, wobei er nach Intervention des Rektors der Marburger Schule wieder als Lehrer arbeiten konnte. Im Jahr 1939 erfolgte die Einberufung zur Wehrmacht. Während eines Studienurlaubs habilitierte sich D. 1941 zum Thema des Westfälischen Friedens. 1944 geriet er in amerikanische Kriegsgefangenschaft. Nach dem Krieg leitete Dickmann als Oberstudiendirektor die Martin-Luther-Schule in Marburg. Sein Hauptwerk über den Westfälischen Frieden erschien 1959, seit 1961 arbeitete D. auch als Privatdozent, bis er 1965 den Ruf auf den Lehrstuhl für Neuere Geschichte in Berlin erhielt. Vgl. Skalweit, Stephan: Nekrolog, Fritz Dickmann, in: Historische Zeitschrift, Bd. 211, München 1970, S. 257-259; [Vgl. auch Eintrag zu Dickmann, Fritz: Wikipedia, Version v. 23.05.2017, 22:49 Uhr.] (https://de.wikipedia.org/wiki/Fritz_Dickmann)]
+
+[a467a28a]: https://www.wewelsburg.de "Startseite Wewelsburg"
+
+[f6fd9893]: https://www.historisches-lexikon-bayerns.de/Lexikon/Reichsparteitage_der_NSDAP,_1923-1938) "Historisches Lexikon Bayerns - Reichparteitage der NSDAP 1923-1938"
+
+[ec76a647]: https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Landtages_(Land_Thüringen)_(5._Wahlperiode) "Wikipedia - Liste der Mitglieder des Thüringer Landtages (5. Wahlperiode)"
+
+[54986cc3]: https://www.wewelsburg.de "Startseite Kreismuseum Wewelsburg"
+
+[^7de7]: BArch, NS 19/233, Bl. 8f.
+[^0ce2]: BArch, NS 19/233, Bl. 1.
+[^cefb]: Dickmann, Regierungsbildungbildung, VfZ 1966, S. 455 f.
+[^8741]: Dickmann, Regierungsbildungbildung, VfZ 1966, S. 455.
+
+[^1254]: Hinweis bei Dickmann auf den Parteitag der NSDAP im August 1929. Vgl. Dickmann, Regierungsbildung, VfZ 1966, S. 460.
+
+[^8bfc]: Zu Thüringen insgesamt vgl. Heiden, Detlev; Mai Gunther (Hg.): Nationalsozialismus in Thüringen, Weimar 1995. Zu Wilhelm Frick als Innen- und Volksbildungsminister vgl. Neliba, Günter: Wilhelm Frick, Legalist des Unrechtsstaates, Paderborn 1992, S. 57-64. (Im Folgenden als Neliba: Legalist zitiert)
+
+[^e0e1]: Zu Frick vgl. Neliba: Legalist; Zu Himmler vgl. Lehnstaedt, Stephan: Das Reichsinnenministerium des Innern unter Heinrich Himmler 1943-1945, in: Vierteljahreshefte für Zeitgeschichte, (4) 2006, S. 639-672, hier S. 639. ([PDF-online][4f56e50c])
+
+[4f56e50c]: https://www.ifz-muenchen.de/heftarchiv/2006_4_4_lehnstaedt.pdf "Vierteljahreshefte für Zeitgeschichte - Heftarchiv Institut für Zeitgeschichte München/Berlin"
+
+[^d935]: Handschriftliche Telefonnotizen Himmlers vom 16.08.1943, BArch, NS 19/1440, Bl. 131.
+
+[^49ac]: Vgl. Maser, Werner: Adolf Hitler, Legende, Mythos, Wirklichkeit, 12. Aufl., München 1989 (1. Aufl. 1971); Fest, Joachim C.: Hitler, Eine Biographie, Frankfurt a.M. 1973; Weissbecker, Manfred/ Pätzold, Kurt: Adolf Hitler, Eine politische Biographie, Leipzig 1995; Reuth, Ralf Georg: Hitler, Eine politische Biographie, München 2003; Pyta, Wolfram: Hitler, Der Künstler als Politiker und Feldherr, München 2015; Longerich, Peter: Hitler, Biographie, München 2015; Pölking, Hermann: Wer war Hitler, Ansichten und Berichte von Zeitgenossen, Berlin 2017, Thamer, Hans-Ulrich: Adolf Hitler, Biographie eines Diktators, München 2018.
+
+[^ce7a]: Vgl. Neliba, Günter: Wilhelm Frick und Thüringen als Experimentierfeld für die nationalsozialistische Machtergreifung, in: Thüringen auf dem Weg ins "Dritte Reich", hrsgg. v. Detlev Heiden und Gunther Mai, S. 95-118, hier S. 96.
+
+[^ea60]: Kershaw, Ian: Hitler, 1889-1936, Stuttgart 1998, S. 406.
+
+[^1a46]: Ullrich, Volker: Adolf Hitler, Jahre des Aufstiegs, Frankfurt a. M. 2013, S. 250.
+
+[^85d4]: BArch, NS 19/233, Bl. 2-7.
+
+[28fda3d2]: https://transkribus.eu/Transkribus/ "Startseite Transkribus"
+
+[^db78]: Als Herausforderung erweist sich bei der Transkription die Übertragung der ursprünglichen Formatierung/ Textgestaltung vor allem der Blätter eins, acht und neun. Sie sind als Korrespondenz zwischen SS-Hauptamt, Persönlichem Stab und Wewelsburg jeweils mit Briefkopf, Betreff, Hauptteil und Postscriptum angelegt. Außerdem befinden sich auf den drei Blättern Stempel und handschriftliche Unterschriften. Zwar bietet Transkribus die Möglichkeit, auch diese Format-Sequenzen maschinell lesbar zu gestalten. Da das originäre Ziel des Beitrages darin bestand, die 1943 erstellte Abschrift des Hitler-Briefes im Format Markdown zu edieren, wurde zu diesem Zeitpunkt darauf verzichtet, auch die Korrespondenz zu integrieren.
+
+[^1f42]: Handschriftlicher Bearbeitungs-Vermerk von Rudolf Brandt.
+
+[^d1fe]: Nach Darstellung der 1995 edierten Dokumentation spielte Hitler damit auf "vergleichsweise günstige Wahlergebnisse der NSDAP auf Länder- und Kommunalebene im Oktober und November 1929" an. RSA, Bd. III, S. 59, Anm. 4. In den [Landtagswahlen in Baden][44edaebe] am 27. Oktober 1929 verbesserte die NSDAP ihr Ergebnis gegenüber den Wahlen vom 25. Oktober 1925 von 1,16 auf 6,98 Prozent. Auf kommunaler Ebene konnte die NSDAP zum Beispiel  in den Wahlen zur Berliner Stadtverordnetenversammlung Zuwächse verbuchen. Hier zog die NSDAP mit 5,8 Prozent erstmals in Parlament ein. Vgl. Baasen, Geert: Wahlen zur Stadverordnetenversammlung und zum Abgeordnetenhaus von Berlin zwischen 1862 und 2011, in: Zeitschrift für amtliche Statistik Berlin Brandenburg, 1+2 (2012), S. 58-65, hier. S. 61. ([PDF online][643f5ef6])
+[^a3e5]: Artur Dinter (27.06.1876, Mühlhausen/Elsass - 21.05.1948, Offenburg), studierte Philosophie und Naturwissenschaften an der Universität Strassburg. Nach seinem aktiven Kriegsdienst von 1914 bis 1916 wurde Dinter vom Heer entlassen. Im Jahr 1917 veröffentlichte er das Buch "Die Sünde wider das Blut" und siedelte nach Thüringen über. Er engagierte sich als Wahlkampfredner für die Deutschnationale Volkspartei und war Vorstandmitglied des Deutschvölkischen Schutz- und Trutzbundes. Nachdem die NSDAP aufgrund des gescheitern Hitler-Aufstandes vom 9. November 1923 in München verboten wurde, zog Dinter, der Gräfenroda wohnte, im Febraur 1924 als Fraktionsführer des Wahlündnisses "Völkisch-Sozialer-Block" in den Thüringer Landtag ein. Als die NSDAP 1925 wieder zugealssen wurde, gründete Artur Dinter, NSDAP-Mitglied Nr. 5, den Gau Thüringen. In den Landtagswahlen vom Januar 1927 wurde er wiederum als Spitzenkandidat der NSDAP in das Parlament gewählt. Bereits Ende September 1927 wurde D. abgesetzt, im Oktober 1928 aus der NSDAP ausgeschlossen. Unmitelabr nach der Amtsenthebung  gründete Artur Dinter einen Verein mit dem Namen _Geistchristliche Religionsgemeinschaft_, in dem sich Dinter der Befreiung des Christentums vom Judentum verschrieb. Mit der Wahl vom 8. Dezember 1929 verlor Dinter sein Landtagsmandat. Vgl. Beyer, Hubert: Dr. Phil. Nat. Artur Dinter auch ein Teil von von Gräfenroda, in: Gräfenroda, Beiträge zur Heimatgeschichte, Heft 3 (2013), Walterhausen u.a.
+
+[44edaebe]: https://de.wikipedia.org/wiki/Landtag_der_Republik_Baden#Landtagswahl_1929 "Wikipedia - Landtagswahlen in Baden während der Weimarer Republik"
+[643f5ef6]: https://www.statistik-berlin-brandenburg.de/publikationen/aufsaetze/2012/HZ_201201-04.pdf "Zeitschrift für amtliche Statistik Berlin Brandenburg"
+[a7a09b6d]: https://de.wikipedia.org/wiki/Ergebnisse_der_Landtagswahlen_in_der_Weimarer_Republik "Wikipedia - Landtagswahlen in der Weimarer Republik"

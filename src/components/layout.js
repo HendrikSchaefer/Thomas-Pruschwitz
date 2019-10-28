@@ -15,7 +15,7 @@ import { Helmet } from "react-helmet"
 
 const Layout = ({ children }) => (
 	<StaticQuery
-	query = { 
+	query = {
 		graphql`
 		query {
 			site {
@@ -49,20 +49,23 @@ const Layout = ({ children }) => (
 					]}
 					/>
 					<Aside>
+
 						<Navigator>
-							<Logo>
-								<h5>{data.site.siteMetadata.title} <SocialList><span>
+						<div><a href="/"><img style={{width:'110px', height:'auto', borderRadius:'100px', border:'solid #fafafa', marginBottom:'-30px'}} src="https://pbs.twimg.com/profile_images/980087743664541697/_XnBbr5H_400x400.jpg" alt="blabla" /></a></div>
+							<Logo><br/>
+								<h5><a style={{color:'#fafafa'}} href="/">{data.site.siteMetadata.title}</a></h5><SocialList><span>
 								<a target="_blank" href="#"><span className="fab fa-twitter"></span></a></span> <span>
 								<a target="_blank" href="#"><span className="fab fa-instagram"></span></a></span> <span>
 								<a target="_blank" href="#"><span className="fab fa-github"></span></a></span>
-								</SocialList></h5>
-								<p>{data.site.siteMetadata.description}</p>
+								</SocialList>
+								<p style={{color:'#fafafa', paddingTop:'30px'}}>{data.site.siteMetadata.description}</p>
 							</Logo>
+
 							<nav>
+								<p style={{fontWeight:'bold', paddingLeft:'7px', color:'#fafafa', paddingBottom:'20px'}}>Themen</p>
 								<LinksList>
-									<li><Link to={`/single-page/`} activeClassName="active">Single Page</Link></li>
-									<li><Link to={`/`} activeClassName="active">Main Category</Link></li>
-									<li><Link to={`/cat2/`} activeClassName="active">2nd Category</Link></li>
+									<li><Link to={`/single-page/`} activeClassName="active">Eine einfache Seite</Link></li>
+									<li><Link to={`/cat2/`} activeClassName="active">Reichsführer SS</Link></li>
 								</LinksList>
 							</nav>
 						</Navigator>

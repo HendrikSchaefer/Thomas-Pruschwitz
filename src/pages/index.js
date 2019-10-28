@@ -12,6 +12,8 @@ let months = days * 30;
 export default ({ data }) => {
   return (
     <Layout>
+    <div><h1 className="customHeadline">Thomas Pruschwitz in da house!</h1></div>
+
       <CardColumns>
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <Card key={node.id}>

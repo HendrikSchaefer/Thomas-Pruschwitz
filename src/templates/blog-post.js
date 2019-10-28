@@ -12,8 +12,8 @@ export default ({ data }) => {
           <PreTitle>{post.frontmatter.category}</PreTitle>
           <Title>{post.frontmatter.title}</Title>
 	        <Subtitle>{post.frontmatter.subtitle}</Subtitle>
-          <p><strong>Project</strong> <a href={post.frontmatter.project} target={"_blank"}>{post.frontmatter.project}</a></p>
-          <p><strong>Demo</strong> <a href={post.frontmatter.demo} target={"_blank"}>{post.frontmatter.demo}</a></p>
+          <p><strong>Kategorie</strong> <a href="/" target={"_blank"}>{post.frontmatter.category}</a></p>
+
         </Header>
         <div
           className={"content"}
@@ -55,8 +55,6 @@ export const query = graphql`
         subtitle
         tags
         category
-        project
-        demo
         date(formatString: "DD MMMM, YYYY")
       }
     }

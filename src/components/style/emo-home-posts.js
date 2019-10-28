@@ -19,18 +19,18 @@ export const CardColumns = styled.div`
   column-gap: 1.25rem;
   display: grid;
   grid-template-columns: repeat(1, 1fr);
-  
+
   ${mwS.small(css`
     opacity: 1;
   `)};
   ${mwS.medium(css`
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
   `)};
   ${mwS.large(css`
     grid-template-columns: repeat(2, 1fr);
   `)};
   ${mwS.xLarge(css`
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
   `)};
 `;
 

@@ -277,8 +277,15 @@ body {
   margin: 0;
   font-weight: 300;
   word-wrap: break-word;
-  background: #edf3f3;
-  color: #000;
+  background: #03a9f40a;
+  color: #4d4d4d;
+}
+
+h5 {
+    font-size: 1.1em;
+    padding-bottom: 15px !important;
+    font-weight: 700 !important;
+    text-transform: uppercase;
 }
 
 h1,
@@ -314,11 +321,11 @@ h6,
   color: inherit;
 }
 h1 {
-  font-size: 4em;
+  font-size: 2em;
   line-height: 1;
 }
 h2 {
-  font-size: 2.8em;
+  font-size: 1.5em;
   line-height: 1.1;
 }
 h3 {
@@ -446,6 +453,17 @@ pre > code {
   white-space: pre;
   display: block;
 }
-
-
-
+@media (min-width: 768px)
+{
+.css-3ogtv4 {
+    height: 100vh;
+    min-height: 500px;
+    width: 255px !important;
+    float: left;
+    margin-right: 50px;
+}
+h1.customHeadline {
+    font-size: 30px;
+    padding-bottom: 50px;
+}
+}
