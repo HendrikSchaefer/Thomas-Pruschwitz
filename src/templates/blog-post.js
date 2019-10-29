@@ -12,7 +12,7 @@ export default ({ data }) => {
           <PreTitle>{post.frontmatter.category}</PreTitle>
           <Title>{post.frontmatter.title}</Title>
 	        <Subtitle>{post.frontmatter.subtitle}</Subtitle>
-          <p><strong>Kategorie</strong> <a href="/" target={"_blank"}>{post.frontmatter.category}</a></p>
+          <p><strong>Tags</strong> <a href="/" target={"_blank"}>{post.frontmatter.tags + " "}</a></p>
 
         </Header>
         <div
