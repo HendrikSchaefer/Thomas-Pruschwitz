@@ -3,7 +3,7 @@ title: "Edition - OpenHistory"
 subtitle: "Landtagswahlen in Thüringen. Ein Brief Hitlers mit mehreren Unbekannten."
 date: "2019-10-28"
 update: "2019-10-28"
-tags: ["#WeimarerRepublik", "#Landtagswahlen", "#Thüringen", "#Koalitionsverhandlungen", "#Edition", "Digitalisierung"]
+tags: ["#WeimarerRepublik", "#Landtagswahlen", "#Thüringen", "#Koalitionsverhandlungen", "#Edition", "#Digitalisierung"]
 category: "#OpenHistory"
 featuredImage: "../../img/post/blog-1.png"
 author: "Thomas Pruschwitz"
