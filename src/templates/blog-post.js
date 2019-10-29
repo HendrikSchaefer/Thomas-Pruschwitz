@@ -12,11 +12,11 @@ export default ({ data }) => {
           <PreTitle><span style={{color:'#000'}}>Kategorie:</span> {post.frontmatter.category}</PreTitle>
           <Title>{post.frontmatter.title}</Title>
 	        <Subtitle>{post.frontmatter.subtitle}</Subtitle>
-          <Tags>
+          <div className="tags"><Tags>
 		        {post.frontmatter.tags.map((tag, index) => (
 			        <li key={index}>{tag}</li>
 		        ))}
-	        </Tags>
+	        </Tags></div>
 
         </Header>
         <div

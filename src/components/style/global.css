@@ -481,7 +481,7 @@ details {
     padding: 30px 50px;
     background-color: #fafafa;
     border-radius: 5px;
-    box-shadow:5px 5px 20px #4d4d4d30;
+    box-shadow:5px 5px 15px #4d4d4d20;
     margin-bottom:50px !important;
 }
 
@@ -504,11 +504,9 @@ p {
     background: #fafafa !important;
     width: auto;
     border-radius: 5px;
-    box-shadow:5px 5px 20px #4d4d4d30;
+    box-shadow:5px 5px 15px #4d4d4d20;
 }
 
-.css-1gaf6al {
-    margin-left: auto;
-    margin-right: auto;
-    display: table;
+.tags {
+    text-align: center;
 }
