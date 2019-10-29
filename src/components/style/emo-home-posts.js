@@ -67,7 +67,7 @@ export const Freshnew = styled.span(props => ({
   position: "absolute",
   zIndex: 1,
   padding: "15px",
-  background: "#a5d6a7",
+  background: "#fafafa",
   right: 0
 }));
 export const Update = styled.span(props => ({

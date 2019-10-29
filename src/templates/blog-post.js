@@ -9,10 +9,14 @@ export default ({ data }) => {
     <Layout>
       <MainPost>
         <Header>
-          <PreTitle>{post.frontmatter.category}</PreTitle>
+          <PreTitle><span style={{color:'#000'}}>Kategorie:</span> {post.frontmatter.category}</PreTitle>
           <Title>{post.frontmatter.title}</Title>
 	        <Subtitle>{post.frontmatter.subtitle}</Subtitle>
-          <p><strong>Tags</strong> <a href="/" target={"_blank"}>{post.frontmatter.tags + " "}</a></p>
+          <Tags>
+		        {post.frontmatter.tags.map((tag, index) => (
+			        <li key={index}>{tag}</li>
+		        ))}
+	        </Tags>
 
         </Header>
         <div
@@ -21,7 +25,7 @@ export default ({ data }) => {
         />
         <footer>
           <Date>{post.frontmatter.date}</Date>
-	        <Tags>
+	        <Tags style={{display:'inline-block', marginLeft:'auto', marginRight:'auto'}}>
 		        {post.frontmatter.tags.map((tag, index) => (
 			        <li key={index}>{tag}</li>
 		        ))}

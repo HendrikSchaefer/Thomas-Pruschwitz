@@ -12,7 +12,7 @@ let months = days * 30;
 export default ({ data }) => {
   return (
     <Layout>
-    <div><h1 className="customHeadline">Thomas Pruschwitz in da house!</h1></div>
+    <div><h1 className="customHeadline">Thomas Pruschwitz</h1></div>
 
       <CardColumns>
         {data.allMarkdownRemark.edges.map(({ node }) => (
@@ -21,11 +21,11 @@ export default ({ data }) => {
               <SinglePost>
 	              {Math.abs(Math.round((new Date(node.frontmatter.update).getTime() - new Date().getTime()) / months)) <= 1 &&
 	               node.frontmatter.update !== node.frontmatter.date &&(
-                  <Update>Update</Update>
+                  <Update>Bearbeitet</Update>
                 )}
 	              {Math.abs(Math.round((new Date(node.frontmatter.update).getTime() - new Date().getTime()) / months)) <= 1 &&
 	              node.frontmatter.update === node.frontmatter.date &&(
-		              <Freshnew>Fresh New</Freshnew>
+		              <Freshnew>Neuer Artikel</Freshnew>
 	              )}
                 <Img
                   fluid={node.frontmatter.featuredImage.childImageSharp.fluid}

@@ -3,9 +3,9 @@ title: "Edition - OpenHistory"
 subtitle: "Landtagswahlen in Thüringen. Ein Brief Hitlers mit mehreren Unbekannten."
 date: "2019-10-28"
 update: "2019-10-28"
-tags: ["WeimarerRepublik", "Landtagswahlen", "Thüringen"]
-category: "OpenHistory"
-featuredImage: "../../img/post/brandi-redd.jpg"
+tags: ["#WeimarerRepublik", "#Landtagswahlen", "#Thüringen"]
+category: "#OpenHistory"
+featuredImage: "../../img/post/blog-1.png"
 author: "Thomas Pruschwitz"
 ---
 #  Landtagswahlen in Thüringen. Ein Brief Hitlers mit mehreren Unbekannten

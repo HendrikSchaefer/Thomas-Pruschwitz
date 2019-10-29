@@ -18,6 +18,7 @@ export const Main = styled.main`
     max-width: 75%;
     padding: 30px;
   `)};
+  
 `;
 
 export const Aside = styled.aside`
@@ -27,13 +28,13 @@ export const Aside = styled.aside`
   top: 0;
   overflow-y: hidden;
   transition: .3s all ease;
-  background: #03a9f4;
+  background: #fafafa;
   z-index: 10;
   font-size: 16px;
   line-height: 1.5;
   overflow: hidden;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  color:#fafafa;
+  color:#4d4d4d;
 
   ${mwS.medium(css`
 		height: 100vh;
@@ -93,7 +94,7 @@ export const LinksList = styled.ul`
   }
 
   li a {
-    color: #fff;
+    color: #4d4d4d;
     padding: 0 7px;
     display: block;
     position: relative;

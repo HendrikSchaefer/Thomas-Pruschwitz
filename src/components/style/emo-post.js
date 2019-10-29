@@ -6,7 +6,7 @@ export const Header = styled.header`
   padding-bottom: 20px;
   margin-bottom: 20px !important;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  
+
   & p > strong {
     font-weight: 100;
   }
@@ -91,6 +91,7 @@ export const Tags = ({ children }) => (
         border: 1px solid #ddd;
         background: #ddd;
         width: auto;
+        
       }
     `}
   >
