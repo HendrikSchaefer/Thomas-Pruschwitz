@@ -483,6 +483,7 @@ details {
     border-radius: 5px;
     box-shadow:5px 5px 15px #4d4d4d20;
     margin-bottom:50px !important;
+    cursor: pointer;
 }
 
 details summary {
@@ -509,4 +510,7 @@ p {
 
 .tags {
     text-align: center;
+}
+*:focus {
+    outline: none;
 }
