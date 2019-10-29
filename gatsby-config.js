@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Thomas Pruschwitz`,
     subtitle: `Gatsby`,
-    description: `Freiberuflicher Experte zur Geschichte des National-sozialismus. Ediert und experimentiert aktuell im Bundesarchiv Berlin.`,
+    description: `Experimentiert hier zur #Zeitgeschichte.`,
     keywords: `code, programming, gatsby, tutorial, starter, library`,
     cats: `SS, Wehrmacht, Digitalisierung`,
     siteUrl: `https://gatsby-starter-fine.netlify.com`
