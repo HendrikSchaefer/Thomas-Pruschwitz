@@ -90,7 +90,7 @@ Editorische Anmerkungen aus den bereits publizierten Versionen von 1966/ 1995 si
 
 ### Edition
 
-<div style="background-color: #cab9a5;
+<div style="background-color: #c2b28030;
     padding: 20px 30px;">
 
 
@@ -115,7 +115,7 @@ Seit Sie uns im August verlassen haben, konnte die Bewegung einen Aufschwung neh
 <details close>
   <summary>Digitalisat: BArch, NS 19/233, Bl. 2</summary>
 
-![Digitalisat: BArch, NS 19/233, Bl. 2](../../img/post/NS-19-233(1-9)-0001.png)
+![Digitalisat: BArch, NS 19/233, Bl. 2](../../img/post/NS-19-233(1-9)-0002.jpg)
 </details>
 
 <details close>

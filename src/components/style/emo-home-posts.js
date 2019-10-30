@@ -2,7 +2,7 @@ import  styled , { css } from "react-emotion";
 import  { mwS } from "./breakpoints";
 
 export const Card = styled.div`
-    background: #fff;
+    background: #f1f1f1;
     margin-bottom: 20px;
     transform: scale(1);
     -o-transition: 0.5s all ease;
@@ -68,7 +68,8 @@ export const Freshnew = styled.span(props => ({
   zIndex: 1,
   padding: "15px",
   background: "#fafafa",
-  right: 0
+  right: 0,
+  fontWeight:600
 }));
 export const Update = styled.span(props => ({
 	position: "absolute",
