@@ -88,8 +88,11 @@ In Büchern war es bei Editionen üblich, zur Auflösung von Abkürzungen vor al
 
 Editorische Anmerkungen aus den bereits publizierten Versionen von 1966/ 1995 sind in Fußnoten festgehalten, genau wie Informationen zu Personen und Sachverhalten. Überall, wo es aus editorischer Sicht sinnvoll erschien, wurden Links zur Kontextualisierung der Information gesetzt. Am Ende jedes edierten Blattes befindet sich die Option, das Original der überlieferten Abschrift als Foto zu einzusehen. Die Bearbeitung stellt ein experimentelles, keineswegs abgeschlossenes Verfahren zur #Digitalisierung von Akten aus dem 20. Jahrhundert dar.
 
-
 ### Edition
+
+<div style="background-color: #cab9a5;
+    padding: 20px 30px;">
+
 
 #### -Seite 1 der Abschrift-
 
@@ -197,6 +200,8 @@ gez. Adolf Hitler
 
 /NS 19_233(1-9)-0007 3.jpg
 </details>
+
+</div>
 
 ---
 

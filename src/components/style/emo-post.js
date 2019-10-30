@@ -19,8 +19,8 @@ export const MainPost = styled.article`
   max-width: 100%;
   width: auto;
   padding: 50px 20px 30px 20px;
-  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
-  border: 1px solid #eee;
+  box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.1);
+  border: 0px solid #eee;
   background: #fff;
   & div.content > p,
   & div.content > ol,
@@ -91,7 +91,7 @@ export const Tags = ({ children }) => (
         border: 1px solid #ddd;
         background: #ddd;
         width: auto;
-        
+
       }
     `}
   >

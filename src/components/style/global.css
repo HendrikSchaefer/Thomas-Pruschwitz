@@ -277,7 +277,7 @@ body {
   margin: 0;
   font-weight: 300;
   word-wrap: break-word;
-  background: #f5f5f53b;
+  background: #fff;
   color: #4d4d4d;
 }
 
@@ -516,10 +516,7 @@ p {
     outline: none;
 }
 p *[href] {
-    color: orange;
+    color: #795548;
     text-decoration: none !important;
     font-weight: 600;
-}
-p *[i] {
-  font-size: 100px;
 }
