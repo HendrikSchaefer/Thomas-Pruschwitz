@@ -422,6 +422,7 @@ div.content a {
   display: contents;
   position: relative;
   width: max-content;
+  background-color: black;
 }
 
 div.content a:after {
@@ -513,4 +514,12 @@ p {
 }
 *:focus {
     outline: none;
+}
+p *[href] {
+    color: orange;
+    text-decoration: none !important;
+    font-weight: 600;
+}
+p *[i] {
+  font-size: 100px;
 }
