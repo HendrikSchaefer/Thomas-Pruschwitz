@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "babel-plugin-emotion": "^9.2.11",
+    "disqus-react": "^1.0.7",
     "emotion": "^9.2.12",
     "emotion-server": "^9.2.12",
     "eslint": "^5.15.2",
