@@ -3,13 +3,12 @@ title: "Edition - OpenHistory"
 subtitle: "Landtagswahlen in Thüringen. Ein Brief Hitlers mit mehreren Unbekannten."
 date: "2019-10-28"
 update: "2019-10-28"
-tags: ["ltwth1929", "#WeimarerRepublik", "#Landtagswahlen", "#Thüringen", "#Koalitionsverhandlungen", "#Edition", "#Digitalisierung"]
+tags: ["#ltwth1929", "#WeimarerRepublik", "#Landtagswahlen", "#Thüringen", "#Koalitionsverhandlungen", "#Edition", "#Digitalisierung"]
 category: "#Edition"
 featuredImage: "../../img/post/blog-1.png"
 author: "Thomas Pruschwitz"
 ---
-
-#  Landtagswahlen in Thüringen. Ein Brief Hitlers mit mehreren Unbekannten.
+#  Fall 1 - Landtagswahlen in Thüringen. Ein Brief Hitlers mit mehreren Unbekannten.
 
 
 ##  📊 **1929/30 - Wahl & Original**
@@ -203,9 +202,27 @@ gez. Adolf Hitler
 /NS 19_233(1-9)-0007 3.jpg
 </details>
 
+
 </div>
 
 ### Auflösungen und Ausblicke
-Zu den Merkwürdigkeiten der Geschichte des Briefes gehört die Beschaffungs-Aktion der Fotokopie durch SS-Obergruppenführer Gottlob Berger im August 1943. Wie bereits erwähnt, sollen laut Korrespondenz zwischen Berger und SS-Sturmbannführer Rudolf Brandt sowohl Original als auch Fotokopie in das Archiv der Wewelsburg gelangt sein. Dort befinden sie sich aber nicht mehr.
 
-So undurchsichtig die Aktion Bergers zunächst erscheint, zog sie einen bürokratischen Akt der Vervielfältigung nach sich.
+Der Brief Hitlers vom 2. Februar 1930 ging an Walter und Ida Eichhorn, die laut NSDAP-Mitglieds-Kartei in der argentinischen Kleinstadt La Falda lebten. Von Hitler bekamen sie am 11. Mai 1935 das Ehrenzeichen der NSDAP überreicht. Offenbar haben beide ihre Auszeichungen später verloren, denn im November 1938 ließ die NSDAP-Parteizentrale in München ihnen jeweils zwei "Ersatz-Ehrenzeichen" aushändigen.[^Vgl. Aktennotiz Eisele, 20.11.1938, BArch, R 9361-II/200679.] Mehr Informationen liefern die Akten aus dem Bundesarchiv nicht.
+
+Unbekannt ist die Geschichte des Ehepaars Eichhorn keineswegs. Als Mitinhaber des Edén Hotels in La Falda machten sie sich seit 1912 in der Provinz Córdoba einen Namen. In einer sehenswerten Reportage hat Dokumentarfilmerin [Cuini Amelio Ortiz](http://www.cuini.de "Website Cuini Amelio Ortiz") die Geschichte des Hotels aufgearbeitet. Ganz nebenbei klärt Ortiz auch den Verbleib des Originals. Wie kaum anders zu erwarten, befindet es sich bei den Nachfahren der Eichhorns in Argentinien. Im Film zu sehen ist der Brief mit den handschriftlichen Korrekturen und unterzeichnet von Adolf Hitler (Timecode 00:26:23-00:28:34). Zumindest lässt sich so einordnen, dass SS-Obergruppenführer Gottlob Berger 1943 nicht das Original meinen konnte, als er anmerkte, Himmler hätte den Brief in die Wewelsburg bringen lassen.
+
+<details close>
+  <summary>Reportage von Cuini Amelio Ortiz bei YouTube ab 00:26:23 </summary>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/16vVXSzwUdM?start=1583" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
+
+
+In ihrem Film geht Ortiz auch auf die Rolle der Eichhorns ein, die während einer Deutschlandreise Mitte der 1920er Jahre auf Hitler trafen und ihn anschließend finanziell unterstützten. Übermäßig gefühlvolle Briefe Hitlers an die Einhorns waren offensichtlich keine Seltenheit. Für andere Dinge hatte er sich bereits vor dem 2. Februar 1930 regelmäßig bei ihnen bedankt. Ein wichtiges Detail wird im Film über Walter Eichhorn erwähnt. Der geborene Leipziger handelte in Argentinien mit Spitze, einer dekorativen Textilie überwiegend aus Garn, deren industrielles Zentrum in Deutschland vor dem Ersten Weltkrieg im thüringischen Plauen lag. Walter Eichhorn hatte also durchaus Interesse daran zu erfahren, wie sich die mitteldeutsche Industrie gegenüber den Rechtsextremen verhielt. Hitler teilte es ihm brühwarm mit.
+
+Ida Eichhorn, so berichtet Ortiz, war bereits mit einem wesentlich älteren Mann verheiratet, verließ ihre Heimat und vierjährige Tochter aber, um in Übersee ihr Glück zu suchen. Auf der Schiffsreise 1912 lernte sie Walter kennen, die beiden heirateten und kauften zusammen mit Walters Bruder Bruno sowie dessen Frau das Edén Hotel in La Falda. Ida Eichhorn, vor allem ihre Herkunft, ist möglicherweise auch die Schlüsselverbindung für den Vorgang von 1943. Ida, eine geborene Bonfert stammte aus dem Siebenbürgen (Rumänien). SS-Obergruppenführer Gottlob Berger, ein Schwabe, hatte dienstliche und persönliche Verbindungen nach Rumänien. Als Chef des SS-Hauptamtes rekrutierte der SS-Obergruppenführer in Rumänien für die Waffen-SS. Berger außerdem hatte eine Tochter, die (Wann?) Andreas Schmidt heiratete. Schmidt übernahm die Führung der Deutschen Volksgruppe in Rumänien (Wann?) von einem gewissen (Vorname) Bonfert. Auch nach dem Unfalltod der Tochter Bergers 1942, riß die Verbindung zwischen ihm und Schmidt nicht ab. Daher lässt sich vermuten, dass Berger die angeblich "noch einzig vorhandene" Fotokopie von Andreas Schmidt oder einer Person aus dessen näheren Umfeld zugespielt bekam. Mit Thüringen und Hotel Edén hatte der Vorgang 1943 daher weniger zu tun, vielleicht auch weniger mit Wilhelm Frick. Für Reichsführer-SS Heinrich Himmler war es jedoch die Gelegenheit, mit Hilfe Bergers über den Namen "Eichhorn" Einfluss auf Hitlers Entscheidungen zu Rumänien auszuüben.
+
+Dass der Name "Eichhorn" in der Dokumentation von 1966 verschwindet, hatte über die persönliche Verbindung der Beteiligten hinaus auch einen brisanten historisch-politischen Hintergrund. Hitlers Suizid war nicht nachgewiesen. Bis heute hält sich hartnäckig das Gerücht, Hitler sei in Argentinien abgetaucht. Bei Familie Eichhorn im Edén Hotel versteht sich.
+
+/Screenshot, Header-Bild Eden Hotel.png
+
+To be continued.
