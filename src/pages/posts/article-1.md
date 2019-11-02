@@ -1,6 +1,6 @@
 ---
-title: "Edition - OpenHistory"
-subtitle: "Landtagswahlen in Thüringen. Ein Brief Hitlers mit mehreren Unbekannten."
+title: "Tatort Zeitgeschichte"
+subtitle: "Fall 1 - Landtagswahlen in Thüringen. Ein Brief Hitlers mit mehreren Unbekannten."
 date: "2019-10-28"
 update: "2019-10-28"
 tags: ["#ltwth1929", "#WeimarerRepublik", "#Landtagswahlen", "#Thüringen", "#Koalitionsverhandlungen", "#Edition", "#Digitalisierung"]
