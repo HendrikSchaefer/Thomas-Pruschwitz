@@ -520,3 +520,16 @@ p *[href] {
     text-decoration: none !important;
     font-weight: 600;
 }
+
+img.gatsby-resp-image-image {
+    height: auto !important;
+}
+
+details[open] {
+    min-height: 890px;
+}
+
+iframe {
+    background-color: green;
+    width: -webkit-fill-available;
+}
