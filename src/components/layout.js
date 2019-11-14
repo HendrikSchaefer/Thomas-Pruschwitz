@@ -63,10 +63,10 @@ const Layout = ({ children }) => (
 
 							<nav>
 								<p style={{fontWeight:'bold', paddingLeft:'7px', color:'#4d4d4d', paddingBottom:'20px'}}>Themen</p>
-								<LinksList>
+								{/*<LinksList>
 									<li><Link to={`/single-page/`} activeClassName="active">Eine einfache Seite</Link></li>
 									<li><Link to={`/cat2/`} activeClassName="active">Reichsführer SS</Link></li>
-								</LinksList>
+								</LinksList>*/}
 							</nav>
 						</Navigator>
 					</Aside>
