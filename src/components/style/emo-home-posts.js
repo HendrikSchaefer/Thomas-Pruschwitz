@@ -27,10 +27,10 @@ export const CardColumns = styled.div`
     grid-template-columns: repeat(1, 1fr);
   `)};
   ${mwS.large(css`
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
   `)};
   ${mwS.xLarge(css`
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
   `)};
 `;
 
@@ -40,10 +40,10 @@ export const SinglePost = styled.div`
     transition: 0.2s all ease;
   }
   ${Card}:hover & .gatsby-image-wrapper {
-    opacity: 0.5;
+    opacity: 0.8;
   }
   & .gatsby-image-wrapper {
-    height: 250px;
+    height: 200px;
   }
   ${mwS.small(css`
     opacity: 1;

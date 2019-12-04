@@ -18,7 +18,7 @@ export const Main = styled.main`
     max-width: 75%;
     padding: 30px;
   `)};
-  
+
 `;
 
 export const Aside = styled.aside`
