@@ -54,15 +54,14 @@ const Layout = ({ children }) => (
 						<div><a href="/"><img style={{width:'110px', height:'auto', borderRadius:'100px', border:'solid #fafafa', marginBottom:'-30px'}} src="https://pbs.twimg.com/profile_images/980087743664541697/_XnBbr5H_400x400.jpg" alt="blabla" /></a></div>
 							<Logo><br/>
 								<h5><a style={{color:'#4d4d4d', textAlign:'left'}} href="/">{data.site.siteMetadata.title}</a></h5><SocialList><span>
-								<a target="_blank" href="#"><span className="fab fa-twitter"></span></a></span> <span>
-								<a target="_blank" href="#"><span className="fab fa-instagram"></span></a></span> <span>
-								<a target="_blank" href="#"><span className="fab fa-github"></span></a></span>
+								<a target="_blank" href="https://twitter.com/TPruschwitz"><span className="fab fa-twitter"></span></a></span>
+
 								</SocialList>
 								<p style={{color:'#4d4d4d', paddingTop:'30px'}}>{data.site.siteMetadata.description}</p>
 							</Logo>
 
 							<nav>
-								<p style={{fontWeight:'bold', paddingLeft:'7px', color:'#4d4d4d', paddingBottom:'20px'}}>Themen</p>
+								<p style={{fontWeight:'bold', paddingLeft:'7px', color:'#4d4d4d', paddingBottom:'20px'}}></p>
 								{/*<LinksList>
 									<li><Link to={`/single-page/`} activeClassName="active">Eine einfache Seite</Link></li>
 									<li><Link to={`/cat2/`} activeClassName="active">Reichsführer SS</Link></li>
