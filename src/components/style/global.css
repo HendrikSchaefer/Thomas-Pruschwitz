@@ -474,9 +474,10 @@ h1.customHeadline {
 }
 @media only screen and (max-width: 414px)
 {
-  aside {
-    display: none !important;
+  .left, .right {
+    width: 100% !important;
   }
+
   main {
     padding:20px !important;
   }

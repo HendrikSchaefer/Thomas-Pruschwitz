@@ -1,0 +1,11 @@
+<>
+    <div><h1 className="customHeadline">Thomas Pruschwitz</h1></div>
+    <div>
+      <div style={{width:'50%', padding:'10px',}}><img style={{width:'100%'}} src={Bild} />
+      <h2>Brief Hitler</h2>
+        <div><button class="button" value="test">Zum Artikel</button></div>
+      </div>
+    </div>
+</>
+
+<div><h1 className="customHeadline">Thomas Pruschwitz</h1></div>
