@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Thomas Pruschwitz`,
     subtitle: `Gatsby`,
-    description: `Experimentiert hier zur #Zeitgeschichte.`,
+    description: `Geschichte für alle`,
     keywords: `code, programming, gatsby, tutorial, starter, library`,
     cats: `SS, Wehrmacht, Digitalisierung`,
     siteUrl: `https://gatsby-starter-fine.netlify.com`
@@ -65,6 +65,16 @@ module.exports = {
         sizeByPixelDensity: true,
         quality: 100,
         maxWidth: 860
+      }
+    },
+    {
+      resolve: 'gatsby-plugin-google-analytics',
+      options: {
+        trackingId: "UA-53854676-10",
+        head: false,
+        anonymize: true,
+        respectDNT: true,
+        cookieDomain: "thomas-pruschwitz.de",
       }
     },
     {
